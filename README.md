@@ -1,5 +1,6 @@
 # Digits-Recognition
-Identifies the number which is drawn by the user.
+I combined my paint application which was made using pygame and digit recognition model to
+identify the number which is drawn by the user.
 
 # Images
 ![](Screenshots/2020-08-04%20(8).png)
